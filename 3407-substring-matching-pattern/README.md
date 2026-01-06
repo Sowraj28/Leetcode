@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/substring-matching-pattern">3407. Substring Matching Pattern</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code> and a pattern string <code>p</code>, where <code>p</code> contains <strong>exactly one</strong> <code>&#39;*&#39;</code> character.</p>
+<h2><a href="https://leetcode.com/problems/substring-matching-pattern/">3407. Substring Matching Pattern</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code> and a pattern string <code>p</code>, where <code>p</code> contains <strong>exactly one</strong> <code>&#39;*&#39;</code> character.</p>
 
 <p>The <code>&#39;*&#39;</code> in <code>p</code> can be replaced with any sequence of zero or more characters.</p>
 
